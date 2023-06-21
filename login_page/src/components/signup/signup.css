@@ -1,0 +1,75 @@
+a{
+    color: white;
+}
+.signup-page{
+    width: 400px;
+align-items: center;    
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 25px;
+    line-height: 40px;
+    left: 720px;
+
+    
+    
+    color: #FFFFFF;  
+}
+
+body{
+width: 1440px;
+color: white;
+
+background: #000000;
+}
+
+.box {
+    box-sizing: border-box;
+    
+    /* Auto layout */
+    align-items: center;
+    left: -100px;
+    width: 400px;
+    height: 56px;
+    background: rgba(40, 40, 40, 0.6);
+    border: 1px solid #ABABAB;
+    border-radius: 4px;
+    color: white;
+  }
+  .logo-container2 {
+    position: absolute;
+    align-items: center;
+    left: 720px;
+
+  }
+    .loginbox{
+    box-sizing: border-box;
+
+    /* Auto layout */
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 10px 10px 17px;
+    gap: 10px;
+    
+    position: absolute;
+    width: 400px;
+    height: 56px;
+    left: calc(50% - 400px/2);
+    top: 500px;
+    
+    background: #FFFFFF;
+    border: 1px solid #ABABAB;
+    border-radius: 4px;
+  }
+  .logo{
+    position: absolute;
+width: 72.18px;
+height: 72.18px;
+left: 55.06px;
+top: 60.77px;
+
+
+  }
